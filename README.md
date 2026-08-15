@@ -14,7 +14,7 @@ Meu objetivo é transformar conhecimento em projetos reais, desenvolver boas pr�
 * Desenvolvendo projetos com **Python e HTML/CSS**
 * Aprendendo **SQL, Git e GitHub**
 * Explorando conceitos de **Backend e desenvolvimento de software**
-* Interesse em **tecnologia, sistemas e inovação**
+* Interesse em **Sistemas Operacionais, tecnologia e infraestrutura**
 * Sempre buscando aprender e transformar teoria em prática
 
 ---
@@ -36,7 +36,21 @@ Meu objetivo é transformar conhecimento em projetos reais, desenvolver boas pr�
 * VS Code
 * Windows / Linux
 * VMware
-* Cisco Packet Tracer 
+* Cisco Packet Tracer
+
+---
+
+## Áreas de Interesse
+
+* Desenvolvimento de Software
+* Backend
+* Sistemas Operacionais
+* Banco de Dados
+* Redes de Computadores
+* Infraestrutura e Tecnologia
+* Inteligência Artificial
+
+---
 
 ## Atualmente
 
@@ -55,6 +69,3 @@ Backend      ████░░░░░░  Explorando
 Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, desde aplicações simples até projetos mais completos.
 
 **Objetivo:** aprender, construir, testar e evoluir constantemente.
-
----
-
